@@ -7,16 +7,17 @@
 
 header{
 
-	width: 100%; height: 118px; background: #0d0d0e;
+	width: 100%; height: 118px; 
+	background: #0d0d0e;
 	position:relative;
 	overflow: hidden;
 }
 
 footer{
 
-	width: 100%; height: 233px; background: #0d0d0e;
+	width: 100%; height: 233px; 
+	background: #0d0d0e;
 	position:relative;
-	text-align: center;
 	overflow: hidden;
 }
 
@@ -31,8 +32,9 @@ nav{
 #Jbody{
 
 	width: 100%; height: 600px;
-	background-image:url("img/body.jpg"); background-size:cover;
-	text-align: center;
+	background-image:url("img/body.jpg"); 
+	background-size:cover;
+	
 	overflow:hidden;
 
 }
@@ -43,16 +45,17 @@ nav{
 #Junderbody{
 
 	width: 100%; height: 600px;
-	background-image:url("img/underbody.jpg");background-repeat:no-repeat;
-	background-position:center center;
+	background-image:url("img/underbody.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
 	background-size:100%;
 	overflow:hidden;
 }
 
 
-.bodylogo{
+.bodylogo {
 
-	margin: 54px 35%;
+	margin:100px 36% ;
 
 }
 
